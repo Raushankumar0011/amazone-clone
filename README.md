@@ -1,2 +1,3 @@
 # amazone-clone
-this the the, whih is look like amazone clone
+this is the first clone whichis build by me
+
